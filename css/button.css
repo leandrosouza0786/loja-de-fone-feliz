@@ -1,0 +1,19 @@
+.button{
+    font-size: 20px;
+    background-color: #252c41;
+    color: #fff;
+    font-size: inherit;
+    display: inline-block;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+}
+.button.-button-second{
+    vertical-align: top;
+    font-family: inherit;
+    background-color: transparent;
+    border: 2px solid #fff;
+    width: 218px;
+
+}

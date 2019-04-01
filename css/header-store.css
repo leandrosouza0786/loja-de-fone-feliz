@@ -1,0 +1,36 @@
+*{
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: "SegoeUI", "Roboto", sans-serif;
+
+}
+
+.header-store{
+    overflow: hidden;
+    color: #fff;
+    margin-bottom: 138px;
+    padding-left: 60px;
+}
+
+.header-store .title{
+    float: left;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.header-store .navigation{
+    float: right;
+    font-size: 21px;
+
+}
+
+.header-store .navigation .action{
+    color: inherit;
+    margin-right: 60px;
+}
+
+.header-store .navigation .action.-last{
+    margin-right: 0;
+}
