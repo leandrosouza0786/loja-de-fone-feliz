@@ -1,0 +1,8 @@
+*{
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: "SegoeUI", "Roboto", sans-serif;
+    background: #252c41;
+}

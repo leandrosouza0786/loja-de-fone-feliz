@@ -1,4 +1,5 @@
 .wrap-product{
     display: inline-block;
     width: 554px;
+    vertical-align: middle;
 }
