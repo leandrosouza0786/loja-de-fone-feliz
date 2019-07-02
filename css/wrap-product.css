@@ -3,3 +3,12 @@
     width: 554px;
     vertical-align: middle;
 }
+
+@media (max-width: 1490px) { 
+    .container-store{
+        position: static;
+        transform: none;
+        width: 100%;
+        max-width: 100%;
+    }
+}
